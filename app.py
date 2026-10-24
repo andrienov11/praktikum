@@ -6,7 +6,7 @@ import math
 # =====================================================
 
 st.set_page_config(page_title="Wind Correction Angle")
-st.title("Wind Correction")
+st.title("Wind Correction (WCA) Calculator")
 
 st.divider()
 
@@ -14,7 +14,7 @@ st.divider()
 # INPUT
 # =====================================================
 
-st.subheader("Data Kondisi Penerbangan")
+st.subheader("Kondisi Penerbangan")
 
 col1, col2 = st.columns(2)
 
