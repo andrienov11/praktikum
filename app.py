@@ -6,7 +6,7 @@ import math
 # =====================================================
 
 st.set_page_config(page_title="Wind Correction Angle")
-st.title("Wind Correction Angle")
+st.title("Wind Correction")
 
 st.divider()
 
